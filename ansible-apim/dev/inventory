@@ -1,0 +1,9 @@
+[apim]
+apim_1 ansible_host=10.111.148.71 ansible_user=ubuntu
+# Example
+# apim_1 ansible_host=172.28.128.4 ansible_user=vagrant
+
+[apim-analytics]
+apim-analytics-worker_1 ansible_host=10.111.148.70 ansible_user=ubuntu
+# Example
+# apim-analytics-worker_1 ansible_host=172.28.128.4 ansible_user=vagrant
